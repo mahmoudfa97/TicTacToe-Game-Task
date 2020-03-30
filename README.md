@@ -4,6 +4,9 @@ Render the game with HTML and CSS dynamiclly, and implement all functionality of
 You're required to use pure JavaScript for all the DOM manipulations.
 When a game is over, there should be a reset button that allows the players to play a new game.
 
+
+<img width="372" alt="xo" src="https://user-images.githubusercontent.com/20454134/77949613-eab8d580-72cf-11ea-8265-b233d5c37438.png">
+
 ## make sure of the following needs to be done:
 A complete game of tic-tac-toe can be played in the browser between two players (taking turns on the same computer).
 When the game is over, you shouldn't be able to do any more moves.
